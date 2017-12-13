@@ -1,0 +1,47 @@
+#container{
+  border-top: 22px solid darkorange;
+  border-bottom: 22px solid darkorange;
+  margin: 0 auto;
+  text-align: center;
+  width: 60%;
+  background-color: orange;
+  color: white;
+}
+
+#som{
+  font-family: 'Comic Sans MS';
+  font-size: large;
+}
+
+html{
+  font-family: 'Comic Sans MS';
+}
+
+body{
+  background-color: lightyellow;
+}
+
+#feedback{
+  width: 100px;
+  height: 80px;
+  margin: 0.8em;
+  border: 3px solid darkorange;
+}
+
+#buttonrefresh{
+  background-color: darkorange;
+  color: white;
+  margin: 0.3em;
+  font-family: 'Comic Sans MS';
+  border: 0.6px solid black;
+  box-shadow: 3px 3px 4px black;
+}
+
+#myAnswer{
+  border: 1px solid black;;
+  box-shadow: 3px 3px 4px black;
+  margin-bottom: 1em;
+  font-family: 'Comic Sans MS';
+}
+
+li{list-style-type: none; text-decoration: none;}
